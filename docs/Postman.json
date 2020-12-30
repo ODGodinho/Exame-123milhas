@@ -1,0 +1,28 @@
+{
+	"info": {
+		"_postman_id": "b8a273f8-3569-4f4b-8bce-4667e8bb0b6c",
+		"name": "Local",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8000/flights",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8000/flights",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"flights"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
