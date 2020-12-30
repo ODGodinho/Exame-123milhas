@@ -55,6 +55,12 @@ agora acesse a url: **http://localhost:8000/flights**
 
 <br>
 
+### 💻 Insomnia/Postman
+
+import o arquivo **Insomnia.json** ou **Postman.json** para testar api.
+
+<br>
+
 ## 🍥 Layout 
 
 N/A
